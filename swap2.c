@@ -2,9 +2,9 @@
 void swap()
 {
   double first, second, temp;
-  printf("Enter first number to swap: ");
+  printf("\nEnter first number to swap: ");
   scanf("%lf", &first);
-  printf("Enter second number to swap: ");
+  printf("\nEnter second number to swap: ");
   scanf("%lf", &second);
 
   // value of first is assigned to temp
@@ -18,7 +18,7 @@ void swap()
 
   // %.2lf displays number up to 2 decimal points
   printf("\nAfter swapping, first number = %.2lf\n", first);
-  printf("After swapping, second number = %.2lf", second);
+  printf("After swapping, second number = %.2lf\n", second);
  // return 0;
 }
 

@@ -2,7 +2,7 @@
 void multiply()
 {
     double a, b, product;
-    printf("Enter two numbers to multiply: ");
+    printf("\nEnter two numbers to multiply: ");
     scanf("%lf %lf", &a, &b);  
  
     // Calculating product

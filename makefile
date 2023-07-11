@@ -1,4 +1,4 @@
-ABC.exe:fib.o mul.o rev.o swap2.o main.o
+ABC.exe:fib.o mul.o swap2.o main.o
 	gcc -o ABC.exe fib.o mul.o swap2.o main.o
 
 fib.o:fib.c
