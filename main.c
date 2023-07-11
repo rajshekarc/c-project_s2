@@ -1,5 +1,5 @@
 main(){
-	fibinocci();
+	fibonacci();
 	multiply();
 	reverseSentence();
 	swap();
